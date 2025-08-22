@@ -1,4 +1,5 @@
 # My Expectations to System Integration and Architecture
 
 #### What I am expecting in this subject is that it will teach us how to manage the systems that we will create. I think that it will help us build our systems until we are able to push it to production. I also believe that we will also learn different techniques to make a plan on how to build scalable systems that will use different models.
-#### 
+#### I also believe that we will learn how to use different tools to help us create a plan that could be used to present to non-technical clients. Also, I expect this subject to give us a preliminary knowledge on procuring and creating blueprints for systems and application that we will doing from now then on. I also think that we are going to highten our expertise in integrating modules, and other things to what we build. 
+#### Lastly, what I expect is that our instructor would be a very insightful person when it comes to our ideas and help us foster our creativity and improve ourselves. I also expect to be challenged and tested thoroughly because I think that this subject will be affecting the way I think about modern systems as it is not just simple programming, but it will have the sophistacation of having a plan like in architecture, because, our subject is System Integration and Architecture.
